@@ -9,7 +9,7 @@ class Tata_Motors{
         Cars c1 = new Cars();
         c1.name = "Sierra";
         c1.accelerate(110);
-        System.out.println(c1.name+" "+c1.speed+"km/h ");
+        System.out.println(c1.name+" "+c1.speed+"km ");
         c1.brake();
         System.out.println();
         Cars c2 = new Cars();
